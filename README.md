@@ -1,6 +1,12 @@
 # roadmap
 Python backend developer roadmap.
 
+## Books
+
+1. Two Scoops of Django -- use it as a reference
+2. Testing Goat
+3. Django for Professionals 
+
 ## Table of contents
 
 [General](#general)
