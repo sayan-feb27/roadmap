@@ -31,6 +31,7 @@ Python backend developer roadmap.
 
 - [Python](#python) (standards and best practices)
 - [Virtual environments and pip](#virtual-environments-and-pip)
+- [Pipenv: Python Dev Workflow for Humans](#pipenv)
 - Relational DB and SQL (Postgresql)
 - Django
   - Models and databases
@@ -796,6 +797,10 @@ Installing packages from a txt file:
 `$ pip install -r requirements.txt`
 
 More about `pip`: https://docs.python.org/3/installing/index.html#installing-index
+
+### Pipenv
+
+[A better way to manage dependencies and virtual environments](https://pipenv.kennethreitz.org/en/latest/).
 
 ### Docker
 
