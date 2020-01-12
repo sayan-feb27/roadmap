@@ -29,7 +29,7 @@ Python backend developer roadmap.
 - [Regular Expressions](#regular-expressions)
 - [Semantic versioning](#semantic-versioning)
 - [Character Encodings](#character-encodings)
-- Licenses
+- [Licenses](#licenses)
 - Data structures and algorithms
 - [How Browsers Work](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 
@@ -736,6 +736,9 @@ Additional labels for pre-release and build metadata are available as extensions
 
 [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/#fn:7bitascii)
 
+### Licenses
+
+[Here you go](https://choosealicense.com)
 
 ## Backend
 
