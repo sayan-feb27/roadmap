@@ -30,7 +30,7 @@ Python backend developer roadmap.
 - [Semantic versioning](#semantic-versioning)
 - [Character Encodings](#character-encodings)
 - [Licenses](#licenses)
-- Data structures and algorithms
+- [Data structures and algorithms](#data-structures-and-algorithms)
 - [How Browsers Work](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 
 [Backend](#backend)
@@ -741,6 +741,10 @@ Additional labels for pre-release and build metadata are available as extensions
 ### Licenses
 
 [Here you go](https://choosealicense.com)
+
+### Data structures and algorithms
+
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 ## Backend
 
