@@ -2,6 +2,10 @@
 
 Python backend developer roadmap.
 
+## Career
+
+- [ ] [The Passionate Programmer By Chad Fowler](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
+
 ## Books, articles, documentations
 
 Django:
