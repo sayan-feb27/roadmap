@@ -9,12 +9,16 @@ Django:
 - [ ] Testing Goat (deployment)
 - [ ] Django for Professionals (docker) 
 - [ ] Django for APIs
+- [ ] Django 3 By Example
+- [ ] Django Design Patterns And Best Practices
 
 Python:
 - [ ] Python: official tutorial
 - [ ] Python Tricks: The Book
 - [ ] Mastering Python Regular Expressions
-- [ ] Pipenv: Python Dev Workflow for Humans
+
+Articles:
+- [ ] [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/): Setup modern Python work environment with Pyenv and Poetry
 
 PostgreSQL:
 - [ ] [PostgreSQL Documentation](https://postgrespro.com/docs/postgresql/12/index)
