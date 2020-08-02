@@ -2,7 +2,7 @@
 
 Python backend developer roadmap.
 
-## Books
+## Books, articles, documentations
 
 Django:
 - [ ] Two Scoops of Django -- use it as a reference
@@ -15,9 +15,6 @@ Django:
 Python:
 - [ ] Python: official tutorial
 - [ ] Python Tricks: The Book
-- [ ] Mastering Python Regular Expressions
-
-Articles:
 - [ ] [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/): Setup modern Python work environment with Pyenv and Poetry
 
 PostgreSQL:
@@ -27,23 +24,26 @@ Git and Gitflow:
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Gitflow CheatSheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 
-Data structures and algorithms:
-- [ ] [Steven Skiena, The Algorithm Design Manual, 2nd Edition](http://www.algorist.com/)
-
 CD/CI:
 - [ ] Fabric/Ansible
 - [ ] Docker
 
-Other:
+Linux:
+- [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
+
+Data structures and algorithms:
+- [ ] [Steven Skiena, The Algorithm Design Manual, 2nd Edition](http://www.algorist.com/)
+
+
+Other topics:
 - [ ] Web sockets
 - [ ] NoSQL
 - [ ] Authentication/Authorization methodologies
-- [ ] Message Brokers
+- [ ] Asynchronous Tasks and Message Brokers
 - [ ] Search Engine
-- [ ] Design Patterns
 - [ ] Caching
-- [ ] APIs
-- [ ] Celery
+- [ ] Regexp
+- [ ] Nginx
 
 ## Miscellaneous
 
