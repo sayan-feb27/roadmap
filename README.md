@@ -28,9 +28,9 @@ Git and Gitflow:
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Gitflow CheatSheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 
-CD/CI:
+Automation/Containerization:
 - [ ] Fabric/Ansible
-- [ ] Docker
+- [ ] Docker and `docker-compose`
 
 Linux:
 - [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
