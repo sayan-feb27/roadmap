@@ -15,6 +15,7 @@ Django:
 - [ ] Django for APIs
 - [ ] Django 3 By Example
 - [ ] Django Design Patterns And Best Practices
+- [ ] [Five Django Packages We Love at Monadical](https://monadical.com/posts/django-packages.html)
 
 Python:
 - [ ] Python: official tutorial
